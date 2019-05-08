@@ -47,7 +47,26 @@ int main(void)
     while (1) 
     {
 		
-		beep(5, 100);
+		beep(1, 1000);
+		_delay_ms(1000);
+		beep(2, 1000);
+		_delay_ms(1000);
+		beep(3, 1000);
+		_delay_ms(1000);
+		beep(4, 1000);
+		_delay_ms(1000);
+		beep(5, 1000);
+		_delay_ms(1000);
+		beep(6, 1000);
+		_delay_ms(1000);
+		beep(7, 1000);
+		_delay_ms(1000);
+		beep(8, 1000);
+		_delay_ms(1000);
+		beep(9, 1000);
+		_delay_ms(1000);
+		beep(10, 1000);
+		_delay_ms(1000);
 		
 	}
 }
